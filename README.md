@@ -1,5 +1,7 @@
 # 💬 ValueatRisk Calculator template
 
+https://valueatriskcalculator.streamlit.app/
+
 
 ### How to run it on your own machine
 
