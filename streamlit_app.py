@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import yfinance as yf
 from scipy.stats import norm
 import altair as alt
-#import plotly.express as px
+import plotly.express as px
 
 # Page Configuration
 st.set_page_config(
